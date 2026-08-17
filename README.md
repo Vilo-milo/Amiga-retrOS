@@ -65,4 +65,3 @@ Troubleshooting
     you through most troubleshooting steps.
 
 Enjoy, and thanks for trying retrOS!
-- The creator.
